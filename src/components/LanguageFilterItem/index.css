@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list-item {
+  margin-right: 30px;
+}
+.button {
+  border-width: 0px;
+  background-color: transparent;
+  padding: 5px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.style-active {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  border-radius: 10px;
+  padding: 5px;
+}

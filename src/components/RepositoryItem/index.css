@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.star {
+  color: orange;
+  align-self: center;
+  width: 30px;
+}
+.card {
+  display: flex;
+}
+.fork {
+  align-self: center;
+  width: 30px;
+}
+.issue {
+  align-self: center;
+  width: 30px;
+}
+.avatar {
+  width: 100%;
+}
+.list-item-card {
+  width: 30%;
+  margin: 40px;
+  background-color: #f8f8ff;
+  padding: 20px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+}
